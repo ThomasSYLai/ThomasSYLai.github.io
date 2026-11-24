@@ -49,7 +49,7 @@
 
    /* About Section
    ------------------------------------------------------------------- */
-   #about .profile-pic {
+   #about .about-profile-wrap {
       width: 114px;
       height: 114px;
       margin-left: 12px;
@@ -215,7 +215,7 @@
 
    /* About Section
    -------------------------------------------------------------------- */
-   #about .profile-pic { display: none; }
+   #about .about-profile-wrap { display: none; }
    #about .download .button {
       width: 100%;
       text-align: center;
